@@ -14,7 +14,7 @@ This project is a **Food Delivery Website** built using HTML, CSS, and JavaScrip
 Below are some screenshots of the website:
 
 ### Homepage
-![Homepage](images/Screenshot (75).png)
+![Homepage](images/Screenshot(75).png)
 <img src="images/homepage.png" alt="Homepage" width="600"/>
 
 ### Food Menu
