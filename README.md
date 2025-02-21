@@ -15,7 +15,7 @@ Below are some screenshots of the website:
 
 ### Homepage
 ![Homepage](images/Screenshot(75).png)
-<img src="images/homepage.png" alt="Homepage" width="600"/>
+<img src="images/Screenshot (75).png" alt="Homepage" width="600"/>
 
 ### Food Menu
 ![Food Menu](images/food-menu.png)
