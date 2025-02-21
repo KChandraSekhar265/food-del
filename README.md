@@ -26,14 +26,12 @@ Below are some screenshots of the website:
 <img src="images/Screenshot (78).png" alt="Checkout Page" width="600"/>
 
 ### Admin Page (Upload Food)
-<img src="images/Screenshot (78).png" alt="Checkout Page" width="600"/>
+<img src="images/Screenshot (79).png" alt="Checkout Page" width="600"/>
 
 ### Admin Page (Remove Food)
-![Checkout](images/checkout.png)
 <img src="images/Screenshot (80).png" alt="Checkout Page" width="600"/>
 
 ### Admin Page (Update Orders)
-![Checkout](images/checkout.png)
 <img src="images/Screenshot (81).png" alt="Checkout Page" width="600"/>
 
 
